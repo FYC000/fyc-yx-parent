@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbda63af-47ff-4e04-be90-f4ce28112e17" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../atguigu-SSM/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\Users\傅益成\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Uf7ceB0ZWkaFjcNCmb3EQEdmyG" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../android-sdk-windows" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service-payment/src/main/java/com/example/yx/utis" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1546875" />
+    <property name="project.structure.side.proportion" value="0.21067157" />
+    <property name="service.view.auto.scroll.from.source" value="true" />
+    <property name="service.view.auto.scroll.to.source" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-payment\src\main\java\com\example\yx\utis" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-payment\src\main\resources" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\common\common-util\src\main\java\com\example\yx\common\utis" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-order\src\main\resources" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-cart\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-product\src\main\resources\mapper" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-activity\src\main\resources\mapper" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service-client" />
+      <recent name="D:\JavaLearningProjection\Microservice-Projection\fyc-yx-parent\service\service-activity\src\main\java\com\example\yx\activity\mapper\xml" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn idea:idea" />
+      <command value="mvn idea:idea" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceUserApplication">
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceActivityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-activity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceActivityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-cart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.yx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.yx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHomeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-home" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.yx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceHomeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServicePaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServicePaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.yx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-sys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.yx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.yx.ServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServicePaymentApplication" />
+      <item itemvalue="Spring Boot.ServiceSearchApplication" />
+      <item itemvalue="Spring Boot.ServiceSysApplication" />
+      <item itemvalue="Spring Boot.ServiceAclApplication" />
+      <item itemvalue="Spring Boot.ServiceOrderApplication" />
+      <item itemvalue="Spring Boot.ServiceActivityApplication" />
+      <item itemvalue="Spring Boot.ServiceUserApplication" />
+      <item itemvalue="Spring Boot.ServiceProductApplication" />
+      <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceCartApplication" />
+      <item itemvalue="Spring Boot.ServiceHomeApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceCartApplication" />
+        <item itemvalue="Spring Boot.ServiceHomeApplication" />
+        <item itemvalue="Spring Boot.ServiceGatewayApplication" />
+        <item itemvalue="Spring Boot.ServiceProductApplication" />
+        <item itemvalue="Spring Boot.ServiceUserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bbda63af-47ff-4e04-be90-f4ce28112e17" name="变更" comment="" />
+      <created>1693318864572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693318864572</updated>
+      <workItem from="1693318866483" duration="719000" />
+      <workItem from="1693319688577" duration="1506000" />
+      <workItem from="1693321389057" duration="541000" />
+      <workItem from="1693372569141" duration="2584000" />
+      <workItem from="1693375211185" duration="589000" />
+      <workItem from="1693375831132" duration="111000" />
+      <workItem from="1693375959274" duration="187000" />
+      <workItem from="1693376175990" duration="448000" />
+      <workItem from="1693376650419" duration="59000" />
+      <workItem from="1693376744550" duration="840000" />
+      <workItem from="1693377614484" duration="216000" />
+      <workItem from="1693377850144" duration="81000" />
+      <workItem from="1693377947496" duration="302000" />
+      <workItem from="1693378266759" duration="202000" />
+      <workItem from="1693378486119" duration="129000" />
+      <workItem from="1693378633739" duration="265000" />
+      <workItem from="1693378918670" duration="506000" />
+      <workItem from="1693379445227" duration="632000" />
+      <workItem from="1693380121682" duration="209000" />
+      <workItem from="1693380466796" duration="1362000" />
+      <workItem from="1693383487408" duration="2332000" />
+      <workItem from="1693385941518" duration="906000" />
+      <workItem from="1693393287639" duration="842000" />
+      <workItem from="1693394185311" duration="8861000" />
+      <workItem from="1693405388966" duration="1845000" />
+      <workItem from="1693408966676" duration="1919000" />
+      <workItem from="1693446806859" duration="1156000" />
+      <workItem from="1693448006496" duration="3189000" />
+      <workItem from="1693454808839" duration="3349000" />
+      <workItem from="1693463195068" duration="8247000" />
+      <workItem from="1693481790853" duration="1866000" />
+      <workItem from="1693483840056" duration="4114000" />
+      <workItem from="1693490033101" duration="2911000" />
+      <workItem from="1693543556512" duration="2242000" />
+      <workItem from="1693547664397" duration="7516000" />
+      <workItem from="1693571496217" duration="4586000" />
+      <workItem from="1693654705901" duration="9357000" />
+      <workItem from="1693727126832" duration="4862000" />
+      <workItem from="1693734697781" duration="9087000" />
+      <workItem from="1693805046931" duration="10705000" />
+      <workItem from="1693831109852" duration="8166000" />
+      <workItem from="1693892148634" duration="10215000" />
+      <workItem from="1693909866820" duration="594000" />
+      <workItem from="1693917728194" duration="4049000" />
+      <workItem from="1694070016548" duration="57000" />
+      <workItem from="1694092572721" duration="5338000" />
+      <workItem from="1694154364215" duration="3300000" />
+      <workItem from="1694157748043" duration="3291000" />
+      <workItem from="1694161625604" duration="12644000" />
+      <workItem from="1694189597066" duration="170000" />
+      <workItem from="1694234144306" duration="1607000" />
+      <workItem from="1694244905919" duration="4434000" />
+      <workItem from="1694256638287" duration="2223000" />
+      <workItem from="1694260469420" duration="1787000" />
+      <workItem from="1694262497099" duration="8928000" />
+      <workItem from="1694311270821" duration="3670000" />
+      <workItem from="1694318016294" duration="3154000" />
+      <workItem from="1694331685357" duration="7142000" />
+      <workItem from="1694348269382" duration="6019000" />
+      <workItem from="1694359817565" duration="3596000" />
+      <workItem from="1694411774115" duration="12275000" />
+      <workItem from="1694426025963" duration="2905000" />
+      <workItem from="1694433369379" duration="5998000" />
+      <workItem from="1694443641082" duration="2790000" />
+      <workItem from="1694446553890" duration="144000" />
+      <workItem from="1694498410660" duration="925000" />
+      <workItem from="1694503361997" duration="2816000" />
+      <workItem from="1694589477394" duration="1044000" />
+      <workItem from="1694591234812" duration="2102000" />
+      <workItem from="1694611302799" duration="5513000" />
+      <workItem from="1694670089290" duration="331000" />
+      <workItem from="1694670818363" duration="2215000" />
+      <workItem from="1694677177898" duration="3489000" />
+      <workItem from="1694694250971" duration="1287000" />
+      <workItem from="1694700119362" duration="5530000" />
+      <workItem from="1694745023591" duration="2383000" />
+      <workItem from="1694751425609" duration="2997000" />
+      <workItem from="1694754543114" duration="728000" />
+      <workItem from="1694755547986" duration="3028000" />
+      <workItem from="1694764488199" duration="83000" />
+      <workItem from="1694956229557" duration="93000" />
+      <workItem from="1695376835188" duration="142000" />
+      <workItem from="1695379539533" duration="394000" />
+      <workItem from="1695380070864" duration="668000" />
+      <workItem from="1695381285676" duration="1096000" />
+      <workItem from="1695382682817" duration="2315000" />
+      <workItem from="1696044624746" duration="462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-search/src/main/java/com/example/yx/search/service/impl/SkuServiceImpl.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-search/src/main/java/com/example/yx/search/service/impl/SkuServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/example/yx/product/controller/api/ProductInnnerController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/example/yx/product/controller/api/ProductInnnerController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/rabbit_util/src/main/java/com/example/yx/mq/service/RabbitService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-home/src/main/java/com/example/yx/home/service/impl/ItemServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-activity/src/main/java/com/example/yx/activity/service/impl/ActivityInfoServiceImpl.java</url>
+          <line>280</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
